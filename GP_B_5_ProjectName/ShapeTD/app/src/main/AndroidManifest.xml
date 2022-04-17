@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="gp_b_5.shapetd">
+
+    <!-- adding internet permission -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.NoActionBar">
+        <activity
+            android:name=".Login_Classes.Entry"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="landscape">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Login_Classes.Login"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="landscape"></activity>
+        <activity
+            android:name=".Login_Classes.Register"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="landscape">
+            android:parentActivityName=".Login_Classes.Login">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Login_Classes.Login" />
+        </activity>
+        <activity
+            android:name=".Menu.MainMenu"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".Menu.PlayGame"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="landscape"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+            android:parentActivityName=".Menu.MainMenu">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Menu.MainMenu" />
+        </activity>
+        <activity
+            android:name=".Menu.BuildMap"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="landscape">
+            android:parentActivityName=".Menu.MainMenu">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Menu.MainMenu" />
+        </activity>
+        <activity
+            android:name=".Menu.Leaderboards"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="landscape">
+            android:parentActivityName=".Menu.MainMenu">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Menu.MainMenu" />
+        </activity>
+        <activity
+            android:name=".Menu.ManageUsers"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="landscape">
+            android:parentActivityName=".Menu.MainMenu">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Menu.MainMenu" />
+        </activity>
+        <activity android:name=".Menu.MapSelect"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="landscape" />
+        <activity android:name=".Menu.gameSettings" />
+    </application>
+
+</manifest>

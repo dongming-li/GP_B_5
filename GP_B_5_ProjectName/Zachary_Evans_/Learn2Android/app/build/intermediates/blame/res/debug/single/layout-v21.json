@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/zachary/Documents/coms309/GP_B_5_ProjectName/Zachary_Evans_/Learn2Android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/zachary/.android/build-cache/1ca65884d6e9bf689c8a764d1c487f442556d949/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/zachary/Documents/coms309/GP_B_5_ProjectName/Zachary_Evans_/Learn2Android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/zachary/.android/build-cache/1ca65884d6e9bf689c8a764d1c487f442556d949/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/zachary/Documents/coms309/GP_B_5_ProjectName/Zachary_Evans_/Learn2Android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/zachary/.android/build-cache/1ca65884d6e9bf689c8a764d1c487f442556d949/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/zachary/Documents/coms309/GP_B_5_ProjectName/Zachary_Evans_/Learn2Android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/zachary/.android/build-cache/1ca65884d6e9bf689c8a764d1c487f442556d949/output/res/layout-v21/notification_action.xml"
+    }
+]

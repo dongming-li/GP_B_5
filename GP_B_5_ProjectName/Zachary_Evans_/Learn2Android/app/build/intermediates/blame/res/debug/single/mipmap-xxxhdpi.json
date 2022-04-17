@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/zachary/Documents/coms309/GP_B_5_ProjectName/Zachary_Evans_/Learn2Android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/home/zachary/Documents/coms309/GP_B_5_ProjectName/Zachary_Evans_/Learn2Android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/zachary/Documents/coms309/GP_B_5_ProjectName/Zachary_Evans_/Learn2Android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/zachary/Documents/coms309/GP_B_5_ProjectName/Zachary_Evans_/Learn2Android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

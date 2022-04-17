@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\cs309\\GP_B_5_ProjectName\\nick_test\\Test\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\cs309\\GP_B_5_ProjectName\\nick_test\\Test\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\cs309\\GP_B_5_ProjectName\\nick_test\\Test\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "C:\\cs309\\GP_B_5_ProjectName\\nick_test\\Test\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    }
+]

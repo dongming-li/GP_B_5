@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/zachary/Documents/coms309/GP_B_5_ProjectName/Zachary_Evans_/Learn2Android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/zachary/.android/build-cache/1ca65884d6e9bf689c8a764d1c487f442556d949/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/zachary/Documents/coms309/GP_B_5_ProjectName/Zachary_Evans_/Learn2Android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/zachary/.android/build-cache/1ca65884d6e9bf689c8a764d1c487f442556d949/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

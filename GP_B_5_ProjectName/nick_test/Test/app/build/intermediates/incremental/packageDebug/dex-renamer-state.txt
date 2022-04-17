@@ -1,0 +1,7 @@
+#Mon Sep 11 12:16:16 CDT 2017
+base.0=C\:\\cs309\\GP_B_5_ProjectName\\nick_test\\Test\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_87104fb2299a92c3fa5f36e82ee851b97f89f94c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\cs309\\GP_B_5_ProjectName\\nick_test\\Test\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_148bde73722efca214ddab4347790bab0be2ece2\\classes.dex
+base.1=C\:\\cs309\\GP_B_5_ProjectName\\nick_test\\Test\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_148bde73722efca214ddab4347790bab0be2ece2
+file.0=C\:\\cs309\\GP_B_5_ProjectName\\nick_test\\Test\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_87104fb2299a92c3fa5f36e82ee851b97f89f94c\\classes.dex

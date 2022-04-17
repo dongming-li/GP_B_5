@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/zachary/Documents/coms309/GP_B_5_ProjectName/Zachary_Evans_/Learn2Android/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/home/zachary/.android/build-cache/397c6aa53609fee0d5aeca2d523c42c1ca1ef668/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

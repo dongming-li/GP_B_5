@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SampleLeaderboard>
+    <record>
+		<userName>FallenAim</userName>
+		<level>0</level>
+		<experience>1</experience>
+		<kills>10</kills>
+    </record>
+	<record>
+		<userName>FantasyBorn2</userName>
+		<level>2</level>
+		<experience>20000</experience>
+		<kills>20</kills>
+	</record>
+</SampleLeaderboard>

@@ -1,0 +1,7 @@
+#Fri Sep 01 12:15:57 CDT 2017
+base.0=/home/zachary/Documents/coms309/GP_B_5_ProjectName/Zachary_Evans_/Learn2Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8c8e6963737e3d607e05050f7e63c8e12baa1dc0
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/zachary/Documents/coms309/GP_B_5_ProjectName/Zachary_Evans_/Learn2Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8ff214cef43c64b1ead579c5fc33e5d17d3d0f75/classes.dex
+base.1=/home/zachary/Documents/coms309/GP_B_5_ProjectName/Zachary_Evans_/Learn2Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8ff214cef43c64b1ead579c5fc33e5d17d3d0f75
+file.0=/home/zachary/Documents/coms309/GP_B_5_ProjectName/Zachary_Evans_/Learn2Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8c8e6963737e3d607e05050f7e63c8e12baa1dc0/classes.dex

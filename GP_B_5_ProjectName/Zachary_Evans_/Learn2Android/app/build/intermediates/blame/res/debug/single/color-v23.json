@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/zachary/Documents/coms309/GP_B_5_ProjectName/Zachary_Evans_/Learn2Android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/zachary/.android/build-cache/1ca65884d6e9bf689c8a764d1c487f442556d949/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/zachary/Documents/coms309/GP_B_5_ProjectName/Zachary_Evans_/Learn2Android/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/zachary/.android/build-cache/1ca65884d6e9bf689c8a764d1c487f442556d949/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/zachary/Documents/coms309/GP_B_5_ProjectName/Zachary_Evans_/Learn2Android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/zachary/.android/build-cache/1ca65884d6e9bf689c8a764d1c487f442556d949/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/zachary/Documents/coms309/GP_B_5_ProjectName/Zachary_Evans_/Learn2Android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/zachary/.android/build-cache/1ca65884d6e9bf689c8a764d1c487f442556d949/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/zachary/Documents/coms309/GP_B_5_ProjectName/Zachary_Evans_/Learn2Android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/zachary/.android/build-cache/1ca65884d6e9bf689c8a764d1c487f442556d949/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/zachary/Documents/coms309/GP_B_5_ProjectName/Zachary_Evans_/Learn2Android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/zachary/.android/build-cache/1ca65884d6e9bf689c8a764d1c487f442556d949/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/zachary/Documents/coms309/GP_B_5_ProjectName/Zachary_Evans_/Learn2Android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/zachary/.android/build-cache/1ca65884d6e9bf689c8a764d1c487f442556d949/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/zachary/Documents/coms309/GP_B_5_ProjectName/Zachary_Evans_/Learn2Android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/zachary/.android/build-cache/1ca65884d6e9bf689c8a764d1c487f442556d949/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/zachary/Documents/coms309/GP_B_5_ProjectName/Zachary_Evans_/Learn2Android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/zachary/.android/build-cache/1ca65884d6e9bf689c8a764d1c487f442556d949/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/zachary/Documents/coms309/GP_B_5_ProjectName/Zachary_Evans_/Learn2Android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/zachary/.android/build-cache/1ca65884d6e9bf689c8a764d1c487f442556d949/output/res/color-v23/abc_tint_default.xml"
+    }
+]
